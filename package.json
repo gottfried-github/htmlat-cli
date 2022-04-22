@@ -1,0 +1,26 @@
+{
+  "name": "htmlat-cli",
+  "version": "0.0.1",
+  "description": "cli for htmlat-nodejs",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "htmlat": "./src/index.js"
+  },
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/"
+  },
+  "keywords": [
+    "cli",
+    "NLP"
+  ],
+  "author": "gottfried",
+  "license": "MIT",
+  "dependencies": {
+    "htmlat-nodejs": "file:../htmlat-nodejs"
+  }
+}
