@@ -17,3 +17,6 @@ Example. From a project folder:
 
 ## `--wrap` option
 Whether to wrap the resulting html in an html document (i.e., `<!DOCTYPE html><html><body>your content here</body></html>`).
+
+## htmlat syntax
+See an example [here](https://www.npmjs.com/package/htmlat-rich).
