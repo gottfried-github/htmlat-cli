@@ -1,4 +1,4 @@
-# htmlat CLI using `htmlat-nodejs`
+# cli for `htmlat-nodejs`
 ## Install
 ### Global
 `npm i -g htmlat-cli`
