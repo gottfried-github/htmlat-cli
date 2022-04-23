@@ -9,14 +9,14 @@
 ### Global
 Syntax:
 
-`htmlat <input pathname> <output pathname> [--wrap] [--raw]`
+`htmlat <input pathname> <output pathname> [<wrap pathname>]`
 
 Example. From a project folder:
 
-`htmlat src/my-blogpost.semtext dist/my-blogpost.html --wrap`
+`htmlat src/my-blogpost.semtext dist/my-blogpost.html src/custom-wrap.html`
 
-## `--wrap` option
-Whether to wrap the resulting html in an html document (i.e., `<!DOCTYPE html><html><body>your content here</body></html>`).
+#### document wrapper for content
+The third argument is to specify the path to custom wrapper html file. See [htmlat's docs](#) for how to use this.
 
 ## htmlat syntax
 See an example [here](https://www.npmjs.com/package/htmlat-rich).
