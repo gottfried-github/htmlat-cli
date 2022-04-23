@@ -21,6 +21,6 @@
   "author": "gottfried",
   "license": "MIT",
   "dependencies": {
-    "htmlat-nodejs": "^0.4.0"
+    "htmlat-nodejs": "^0.5.0"
   }
 }
