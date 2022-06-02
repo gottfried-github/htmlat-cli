@@ -1,4 +1,4 @@
-# cli for `htmlat-nodejs`
+# cli for [htmlat-nodejs](https://www.npmjs.com/package/htmlat-nodejs)
 ## Install
 ### Global
 `npm i -g htmlat-cli`
@@ -16,7 +16,7 @@ Example. From a project folder:
 `htmlat src/my-blogpost.semtext dist/my-blogpost.html src/custom-wrap.html`
 
 #### document wrapper for content
-The third argument is to specify the path to custom wrapper html file. See [htmlat's docs](#) for how to use this.
+The third argument is to specify the path to custom wrapper html file. See [htmlat's docs](https://www.npmjs.com/package/htmlat-nodejs) for how to use this.
 
 ## htmlat syntax
 See an example [here](https://www.npmjs.com/package/htmlat-rich).
